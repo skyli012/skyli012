@@ -19,7 +19,7 @@
 ---
 
 ### 📱 Featured Project
-#### [🌿 PlantKnow - 智能植物识别App](https://github.com/HIM198/PlantKnow)
+#### [🌿 PlantKnow - 智能植物识别App](https://github.com/skyli012/PlantKnow)
 > 一款基于 **百度AI开放平台** 的 Android 植物识别应用，使用 **Jetpack Compose + MVVM** 架构实现高性能识别与流畅交互。
 
 - 支持拍照识别与相册选取 🌺  
@@ -30,9 +30,9 @@
 ---
 
 📫 **Contact me:**  
-- 🌐 Blog: [https://voup.cn](https://voup.cn)  
-- 💌 Email: your_email@example.com  
-- 🧭 GitHub: [@HIM198](https://github.com/HIM198)
+- 🌐 Blog: [https://blog.csdn.net](https://blog.csdn.net/m0_70441186?spm=1000.2115.3001.5343n)  
+- 💌 Email: lihailong2077@163.com
+- 🧭 GitHub: [@Sky](https://github.com/skyli012)
 
 ---
 
