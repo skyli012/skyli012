@@ -1,22 +1,6 @@
 ## Hi, 👋  I'm <a href="http://welcome.voup.cn">Sky</a>
  
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> 
-<details>
-  <summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="https://voup.cn" >say <b>"hi"</b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
- 
-<!--my introduction start-->
-    
-- 🔭 Currently focusing on **Android App Development**  
-- 🌱 Learning **Jetpack Compose**, **Kotlin Coroutines**, and **Clean Architecture**  
-- ⚙️ Experienced with **MVVM**, **Retrofit**, **StateFlow**, **Coil**, and **百度AI开放平台**  
-- 🤔 Only two things make me moved:  
-  1. Elegant Code ✨  
-  2. Great UI/UX 💫  
-- ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌, and 📺 [ACGN]  
-- 💬 Be free to ask me about anything [here](https://github.com/HIM198/HIM198/issues).
-
----
-</details>
   
 热爱编程、动漫与电影，喜欢研究新技术并分享经验。  
 
