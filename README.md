@@ -2,7 +2,7 @@
  
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> 
   
-热爱编程、动漫与电影，喜欢研究新技术并分享经验。  
+安卓开发学习师 
 
 ---
 
