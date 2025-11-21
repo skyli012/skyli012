@@ -16,24 +16,4 @@
 | 🧠 AI Integration | 百度AI开放平台 / TensorFlow Lite (Planning) |
 | ⚙️ DevOps | Git / Gradle / Modular Architecture |
 
----
 
-### 📱 Featured Project
-#### [🌿 PlantKnow - 智能植物识别App](https://github.com/skyli012/PlantKnow)
-> 一款基于 **百度AI开放平台** 的 Android 植物识别应用，使用 **Jetpack Compose + MVVM** 架构实现高性能识别与流畅交互。
-
-- 支持拍照识别与相册选取 🌺  
-- 识别准确率超 97% ✅  
-- 异步处理全程无阻塞 ⚡  
-- 模块化架构可快速扩展 🔧  
-
----
-
-📫 **Contact me:**  
-- 🌐 Blog: [https://blog.csdn.net](https://blog.csdn.net/m0_70441186?spm=1000.2115.3001.5343n)  
-- 💌 Email: lihailong2077@163.com
-- 🧭 GitHub: [@Sky](https://github.com/skyli012)
-
----
-
-> _“Code with curiosity. Design with care. Build with passion.”_
