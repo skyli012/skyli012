@@ -2,7 +2,7 @@
  
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> 
   
-安卓开发学习师 
+安卓
 
 ---
 
